@@ -12,4 +12,3 @@ j'apprécie vraiment les artistes qui sont capable de faire de magnifiques trans
 
 
 
-![photo](photo_ZC/Média.jpg)
