@@ -6,7 +6,7 @@
 
 ## **Intérêt dans le multimedia**
 J'aime particulièrement l'animation 2d et j'apprécie surtout d'animé des objets et de les rendre plus vivant. je souhaite vous faire découvrir de nouvelle art à travers des mouvements techniques.
-j'apprécie vraiment les artistes qui sont capable de faire de magnifiques transistion d'animation.
+J'apprécie vraiment les artistes qui sont capable de faire de magnifiques transistion d'animation.
 
 
 
