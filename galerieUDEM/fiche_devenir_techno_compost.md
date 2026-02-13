@@ -1,3 +1,3 @@
 # Exposition Devenir
 
-## Galerie de l'univerité de Montréal
+### Galerie de l'univerité de Montréal
