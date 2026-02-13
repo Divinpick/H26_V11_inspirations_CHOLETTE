@@ -34,7 +34,7 @@ L'installation est immersive.
 
 ![composantes](image/dispositif.png)
 
-les composantes de l'oeuvre est une chaise ainsi qu'un casque vr
+les composantes de l'oeuvre est une chaise ainsi qu'un casque vr.
 
 ## Description de l'oeuvre
 
@@ -67,15 +67,15 @@ Les éléments nécessaires est le murs d'images avec le projecteur ainsi que la
 
 ## Expérience vécue
 
-J'ai aimé que le dispositif était très confortable et très jolie
+J'ai aimé que le dispositif était très confortable et très jolie.
 
-Ce qui m'a plu était de pouvoir interagir avec l'oeuvre dans une immersion avec un casque vr où on pouvait manipuler les images générées par l'ia
+Ce qui m'a plu était de pouvoir interagir avec l'oeuvre dans une immersion avec un casque vr où on pouvait manipuler les images générées par l'ia.
 
 L'aspect que je ne retiendrais pas est le fait que ma chaise vibrait et je trouvais ça un peu dérangeant.
 
 ## Référence
 
-Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Levasseur et ont été prise par Zakk Cholette
+Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Levasseur et ont été prise par Zakk Cholette.
 
 **[lien_artiste](https://marieevelevasseur.com/)**
 
