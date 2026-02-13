@@ -14,6 +14,14 @@ La date de ma visite étais le 30 Janvier 2026
 
 ![oeuvre](image/dispositif.png)
 
-Fait par (Marie-Eve Levasseur)
+Fait par (Marie-Eve Levasseur) en 2025
+
+
+
+Lorsque tu enfile le casque, tu te trouve dans une pièce ou des images tombent du ciel, et tu peux intéragir avec les images et pouvoir les composter. Une fois supprimée, des insectes mangent l'image et disparait du composte.
+
+
+
+
 
 
