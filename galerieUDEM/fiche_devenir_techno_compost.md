@@ -34,6 +34,10 @@ Fauteuil en mousse de rembourrage et d'une structure en acier. Mur en impression
 
 Quand je me dirige vers l'oeuvre je me retrouve devant deux chaises possèdant chaqu'un d'entre eux un casque vr pointé par des lumières du plafond à faible intensitée avec une murale d'images généré par l'ia et d'une diapositive d'une image murale émit par un projecteur.
 
+## Composantes et techniques
+
+
+
 
 
 
