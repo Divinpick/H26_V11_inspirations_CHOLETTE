@@ -92,7 +92,11 @@ Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Lev
 
 ![image_artiste_01](https://marieevelevasseur.com/wp-content/uploads/2025/11/590430512_18545325160010981_6909681862652990913_n.jpeg)
 
+>photo prise par Marie-Eve.L.
+
 ![image_artiste_02](https://marieevelevasseur.com/wp-content/uploads/2025/11/587688633_18531068299028788_3907044248258635877_n.jpg)
+
+>photo prise par Marie-Eve.L.
 
 ![cartel_entree](image/cartel_entree.png)
 
