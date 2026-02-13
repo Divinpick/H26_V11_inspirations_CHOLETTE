@@ -23,6 +23,10 @@ Lorsque tu enfile le casque, tu te trouve dans une pièce ou des images tombent 
 ![installation](image/vue_ensemble.png)
 
 ### L'installation est immersive.
+---
+## fonction du dispositif
+
+Fauteuil en mousse de rembourrage et d'une structure en acier. Mur en impression numérique sur tissu. 
 
 
 
