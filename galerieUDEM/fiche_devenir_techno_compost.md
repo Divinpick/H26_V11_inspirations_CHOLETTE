@@ -12,6 +12,6 @@ La date de ma visite est le 30 Janvier 2026
 
 ## Techno Compost
 
-![dispositif](image/dispositif.jpg)
+![oeuvre](image/dispositif.jpg)
 
 
