@@ -4,7 +4,7 @@
 
 ![entree galerie](image/devant_entree.jpg)
 
-Moi devant l'entrée de La galerie.
+>Moi devant l'entrée de La galerie. Prise par ZC.
 
 L'exposition est temporaire.
 
