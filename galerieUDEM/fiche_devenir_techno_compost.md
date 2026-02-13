@@ -18,6 +18,8 @@ L'oeuvre ce nomme Techno Compost.
 
 ![titre_oeuvre](image/cartel.jpg)
 
+>Photo prise par ZC.
+
 ## Nom de l'artiste
 
 Marie-Eve Levasseur.
@@ -34,6 +36,8 @@ L'installation est immersive.
 
 ![composantes](image/dispositif.png)
 
+>Photo prise par ZC.
+
 les composantes de l'oeuvre est une chaise ainsi qu'un casque vr.
 
 ## Description de l'oeuvre
@@ -41,6 +45,8 @@ les composantes de l'oeuvre est une chaise ainsi qu'un casque vr.
 Lorsque tu enfile le casque, tu te trouve dans une pièce ou des images tombent du ciel, et tu peux intéragir avec les images et pouvoir les composter. Une fois supprimée, des insectes mangent l'image et disparait du composte.
 
 ![installation](image/vue_ensemble.png)
+
+>Photo prise par ZC.
 
 ---
 ## Fonction du dispositif
@@ -50,6 +56,8 @@ Fauteuil en mousse de rembourrage et d'une structure en acier. Mur en impression
 ## Mise en espace
 
 ![titre_oeuvre](image/croquis_oeuvre.png)
+
+>Photo prise par ZC.
 
 Quand je me dirige vers l'oeuvre je me retrouve devant deux chaises possèdant chaqu'un d'entre eux un casque vr pointé par des lumières du plafond à faible intensitée avec une murale d'images généré par l'ia et d'une diapositive d'une image murale émit par un projecteur.
 
@@ -62,6 +70,8 @@ Quand je me dirige vers l'oeuvre je me retrouve devant deux chaises possèdant c
 ![chaise](image/dispositif.png)
 
 ![équipement](image/equipement.png)
+
+>Photo prise par ZC.
 
 Les éléments nécessaires est le murs d'images avec le projecteur ainsi que la chaise.
 
@@ -85,6 +95,8 @@ Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Lev
 ![image_artiste_02](https://marieevelevasseur.com/wp-content/uploads/2025/11/587688633_18531068299028788_3907044248258635877_n.jpg)
 
 ![cartel_entree](image/cartel_entree.png)
+
+>Photo du cartel prise par ZC.
 
 
 
