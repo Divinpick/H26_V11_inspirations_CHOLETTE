@@ -77,7 +77,8 @@ L'aspect que je ne retiendrais pas est le fait que ma chaise vibrait et je trouv
 
 Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Levasseur et ont été prise par Zakk Cholette
 
-[lien_artiste](https://marieevelevasseur.com/)
+**[lien_artiste](https://marieevelevasseur.com/)**
+
 
 ![image_artiste_01](https://marieevelevasseur.com/wp-content/uploads/2025/11/590430512_18545325160010981_6909681862652990913_n.jpeg)
 
