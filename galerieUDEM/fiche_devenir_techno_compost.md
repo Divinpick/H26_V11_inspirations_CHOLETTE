@@ -14,7 +14,7 @@ La date de ma visite étais le 30 Janvier 2026.
 
 ![titre_oeuvre](image/cartel.jpg)
 
-Fait par (Marie-Eve Levasseur) en 2025.
+### Fait par (Marie-Eve Levasseur) en 2025.
 
 ![titre_oeuvre](image/dispositif.png)
 
@@ -22,7 +22,7 @@ Lorsque tu enfile le casque, tu te trouve dans une pièce ou des images tombent 
 
 ![installation](image/vue_ensemble.png)
 
-L'installation est immersive.
+### L'installation est immersive.
 
 
 
