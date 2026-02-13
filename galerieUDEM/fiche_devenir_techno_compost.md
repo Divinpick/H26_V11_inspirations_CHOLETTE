@@ -5,13 +5,15 @@
 ![entree galerie](image/devant_entree.jpg)
 
 Moi devant l'entrée de La galerie
-<br>
+
 L'exposition est temporaire
-<br>
+
 La date de ma visite est le 30 Janvier 2026
 
 ## Techno Compost
 
 ![oeuvre](image/dispositif.png)
+
+Fait par (Marie-Eve Levasseur)
 
 
