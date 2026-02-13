@@ -25,7 +25,7 @@ L'installation est immersive.
 ![composantes](image/dispositif.png)
 
 les composantes de l'oeuvre est une chaise ainsi qu'un casque vr
-
+---
 Lorsque tu enfile le casque, tu te trouve dans une pièce ou des images tombent du ciel, et tu peux intéragir avec les images et pouvoir les composter. Une fois supprimée, des insectes mangent l'image et disparait du composte.
 
 ![installation](image/vue_ensemble.png)
