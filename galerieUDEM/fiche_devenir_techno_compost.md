@@ -57,7 +57,36 @@ Quand je me dirige vers l'oeuvre je me retrouve devant deux chaises possèdant c
 
 ![mur](image/mur_image.png)
 
-![projection](image/projection_image.jpg)
+![projecteur](image/plafond.png)
+
+![chaise](image/dispositif.png)
+
+![équipement](image/equipement.png)
+
+Les éléments nécessaires est le murs d'images avec le projecteur ainsi que la chaise.
+
+## Expérience vécue
+
+J'ai aimé que le dispositif était très confortable et très jolie
+
+Ce qui m'a plu était de pouvoir interagir avec l'oeuvre dans une immersion avec un casque vr où on pouvait manipuler les images générées par l'ia
+
+L'aspect que je ne retiendrais pas est le fait que ma chaise vibrait et je trouvais ça un peu dérangeant.
+
+## Référence
+
+Toutes images prise durant cette visite font partie de l'oeuvre de Marie-Eve Levasseur et ont été prise par Zakk Cholette
+
+[lien_artiste](https://marieevelevasseur.com/)
+
+![image_artiste_01](https://marieevelevasseur.com/wp-content/uploads/2025/11/590430512_18545325160010981_6909681862652990913_n.jpeg)
+
+![image_artiste_02](https://marieevelevasseur.com/wp-content/uploads/2025/11/587688633_18531068299028788_3907044248258635877_n.jpg)
+
+![cartel_entree](image/cartel_entree.png)
+
+
+
 
 
 
