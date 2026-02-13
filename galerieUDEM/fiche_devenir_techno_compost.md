@@ -12,7 +12,7 @@ La date de ma visite étais le 30 Janvier 2026
 
 ## Techno Compost
 
-![oeuvre](image/dispositif.png)
+![titre_oeuvre](image/cartel.jpg)
 
 Fait par (Marie-Eve Levasseur) en 2025
 
