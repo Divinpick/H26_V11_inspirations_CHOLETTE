@@ -2,7 +2,7 @@
 
 ## Place des arts, Montréal
 
-![entrée_de_l'oeuvre](Média_ZC/entrée_eplanade_tranquile.jpg)
+![entrée_de_l'oeuvre](Média_ZC/lumino_affiche.jpg)
 
 >Moi devant l'entrée de l'exposition. Prise par ZC.
 
