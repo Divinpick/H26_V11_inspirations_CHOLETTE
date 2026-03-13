@@ -8,7 +8,7 @@
 
 ## Type d'exposition
 
-L'oeuvre est temporaire.
+L'oeuvre est temporaire et extérieure.
 
 ## Date de visite
 
