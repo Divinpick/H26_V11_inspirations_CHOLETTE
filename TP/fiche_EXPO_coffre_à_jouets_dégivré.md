@@ -2,4 +2,4 @@
 
 ## Place des arts, Montréal
 
-![entree galerie](/Média_ZC/entrée_eplanade_tranquile.jpg)
+![entrée_de_l'oeuvre](/Média_ZC/entrée_eplanade_tranquile.jpg)
