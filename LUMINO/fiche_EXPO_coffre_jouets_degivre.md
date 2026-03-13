@@ -91,6 +91,8 @@ l'aspect que je ne voudrais pas retenir serait de faire l'exposition en extérie
 
 Toutes images prise durant cette visite font partie de l'oeuvre de Ottomata & Doki et ont été prise par Zakk Cholette.
 
+![patinoire_activitee](media/patinoire_activitee.jpg)
+
 **[lien_artiste_site_web](https://ottomata.com/en/whimsical-toy-chest)**
 
 Dans ce site, vous trouverez les images en action de l'exposition durant la nuit sous un meilleur plan que je n'ai pas reussi à obtenir.
