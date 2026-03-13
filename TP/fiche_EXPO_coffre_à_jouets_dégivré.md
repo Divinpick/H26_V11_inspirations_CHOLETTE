@@ -73,7 +73,7 @@ Les éléments nécessaires à l'exposition sont une paire de patins, une combin
 
 ## Expérience vécue
 
-![ami_sur_patinoire](Média_ZC/personne_sur_patinoire.jpg)
+![personne_sur_patinoire](Média_ZC/personne_sur_patinoire.jpg)
 
 >Photo prise par ZC.
 
