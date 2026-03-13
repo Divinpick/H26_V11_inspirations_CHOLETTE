@@ -52,7 +52,7 @@ Cette installation est immersive.
 
 ## Composante et technique
 
-![image_d'un_patin](media/image_patin.jpg)
+![image_d'un_patin](media/patin.jpg)
 
 ![surfaceuse](media/soufleuse.jpg)
 
