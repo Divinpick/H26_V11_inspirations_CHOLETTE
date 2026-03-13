@@ -42,7 +42,7 @@ Cette installation est immersive.
 
 ## Mise en espace
 
-FAIRE LE CROQUIS
+![croquis](Média_ZC/croquis.png)
 
 ## Composante et technique
 
