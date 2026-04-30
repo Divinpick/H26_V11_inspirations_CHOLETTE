@@ -1,6 +1,6 @@
 ## Danse!, robot!, danse!
 
-# Centre des sciences à montréal
+# Centre des sciences à Montréal
 
 ![entrée_de_l'oeuvre](Photo)
 
