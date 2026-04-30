@@ -70,6 +70,6 @@ photo
 
 ## Schéma
 
-!(schéma océan rouge)[]
+!(schéma océan rouge)[media/schema_ocean_rouge.png]
 
 ## Mon opinion personnel
