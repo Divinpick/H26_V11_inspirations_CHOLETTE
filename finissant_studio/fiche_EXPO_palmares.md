@@ -70,4 +70,6 @@ photo
 
 ## Schéma
 
+!(schéma océan rouge)[]
+
 ## Mon opinion personnel
