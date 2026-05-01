@@ -40,6 +40,8 @@ photo
 
 ## Schéma
 
+![schéma arbre en face](media/schema_arbre_face.jpg)
+
 ## Mon opinion personnel
 
 
