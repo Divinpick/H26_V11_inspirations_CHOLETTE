@@ -10,6 +10,8 @@ photo
 
 ## Schéma
 
+![schéma terminal](media/schema_terminal.webp)
+
 ## Mon opinion personnel
 
 
