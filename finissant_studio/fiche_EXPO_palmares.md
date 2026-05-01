@@ -6,7 +6,7 @@
 
 ## Installation
 
-![illustration terminal](media/schema_terminal.jpg)
+![installation terminal](media/installation_terminal.jpg)
 
 ## Schéma
 
@@ -23,7 +23,7 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour
 
 ## Installation
 
-![illustration symbiose](media/schema_symbiose.png)
+![installation symbiose](media/installation_symbiose.png)
 
 ## Schéma
 
@@ -40,7 +40,7 @@ Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael An
 
 ## Installation
 
-![illustration arbre en face](media/schema_arbre_face.jpg)
+![installation arbre en face](media/installation_arbre_face.jpg)
 
 ## Schéma
 
@@ -57,7 +57,7 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
 
 ## Installation
 
-![illustration quand les yeux](media/schema_yeux_croise.jpg)
+![installation quand les yeux](media/installation_yeux_croise.jpg)
 
 ## Schéma
 
@@ -74,7 +74,7 @@ Amira Tounekti et Kristy Moussally
 
 ## Installation
 
-![illustration océan rouge](media/schema_ocean_rouge.jpg)
+![installation océan rouge](media/installation_ocean_rouge.jpg)
 
 ## Schéma
 
