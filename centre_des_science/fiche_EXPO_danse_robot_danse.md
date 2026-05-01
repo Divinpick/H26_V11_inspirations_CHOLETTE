@@ -2,7 +2,7 @@
 
 # Centre des sciences à Montréal
 
-![entrée_de_l'oeuvre](Photo)
+![entrée_de_l'oeuvre](media/centre_science_exterieur.jpg)
 
 >Photo prise du site web
 
@@ -12,7 +12,7 @@ L'oeuvre est permanente et accessible presque tous les jours.
 
 ## Date de visite
 
-![entrée_de_l'oeuvre](PLUS TARD)
+![entrée_de_l'oeuvre](media/entree_dispositif.jpg)
 
 >Photo prise par ZC.
 
@@ -20,11 +20,13 @@ J'ai exploré le centre des sciences le premier avril 2026.
 
 ## Titre de l'exposition
 
+![cartel](media/cartel.jpg)
+
+>Photo prise par ZC.
+
 Le nom de l'oeuvre est Meca500
 
 ## Nom de l'artiste
-
->Photo prise par ZC.
 
 les artistes qui ont travaillé sur le dispositif sont illian Bonev et Jonathan Coulombe.
 
@@ -34,7 +36,7 @@ L'exposition a été créée le 21 juillet 2021.
 
 ## Description de l'oeuvre
 
-![dispositif](PLUS TARD)
+![dispositif](media/dispositif.jpg)
 
 >Photo prise par ZC.
 
@@ -51,11 +53,11 @@ Cette installation est interactive.
 
 ## Composante et technique
 
-![image_d'un_patin](media/patin.jpg)
+![image d'un bouton](media/bouton.jpg)
 
-![surfaceuse](media/soufleuse.jpg)
+![plaquette de couleurs](media/plaque_couleur.jpg)
 
-![plan_des_projecteurs](media/projecteur.jpg)
+![plan_d'une caméra](media/camera.jpg)
 
 >Photo prise par ZC.
 
@@ -64,17 +66,11 @@ Les composantes de cette oeuvre sont un bouton, des plaques de bois, une table, 
 
 ## Éléments nécessaires à la mise en expo
 
-![patinoire_sur_glace](media/patinoire.jpg)
-
 >Photo prise par ZC.
 
 Les éléments nécessaires à l'exposition sont les plaques en bois, le robot, le bouton et la caméra.
 
 ## Expérience vécue
-
-![personne_sur_patinoire](media/patinoire_personne.jpg)
-
->Photo prise par ZC.
 
 J'ai trouvé cette exposition absolument divertissante.
 
@@ -90,7 +86,12 @@ L'aspect que je ne voudrais pas retenir serait que le robot parfois faisait les 
 
 Toutes images prise durant cette visite font partie de l'oeuvre de illian Bonev et Jonathan Coulombe et ont été prise par Zakk Cholette.
 
-**[lien_artiste_site_web](https://ottomata.com/en/whimsical-toy-chest)**
+**[lien_artiste_site_web](https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse?_gl=1*1q7rz6g*_gcl_au*NTU0ODc2NzAyLjE3Nzc1MTAyNDM.*_ga*Mzk0NzQyOTg0LjE3Nzc1MTAyNDM.*_ga_H22CRNZ3Q1*czE3Nzc1MTAyNDMkbzEkZzEkdDE3Nzc1MTAyODMkajIwJGwwJGgw)**
 
+Grand remerciement à ces personnes pour avoir créé ce magnifique dispositif !
+
+![artistes](media/artistes_design_production.jpg)
+
+![soutien](media/soutien_financier.jpg)
 
 
