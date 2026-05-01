@@ -2,7 +2,7 @@
 
 ## Grand studio au collège Montmorency
 
-![entrée_de_l'oeuvre](media/lumino_affiche.jpg)
+![entrée_de_l'oeuvre](media/entree_expo_finissant.jpg)
 
 >Moi qui se tiens devant l'entrée de l'exposition. Prise par ZC.
 
@@ -12,10 +12,6 @@ L'oeuvre est temporaire.
 
 ## Date de visite
 
-![entrée_de_l'oeuvre](media/entree_eplanade_tranquile.jpg)
-
->Photo prise par ZC.
-
 J'ai visité l'exposition lors du 24 février 2026.
 
 ## Titre de l'exposition
@@ -23,10 +19,6 @@ J'ai visité l'exposition lors du 24 février 2026.
 Le nom de l'oeuvre est mission décollage.
 
 ## Nom de l'artiste
-
-![cartel_contenu](media/cartel.jpg)
-
->Photo prise par ZC.
 
 Les noms des artistes sont Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi.
 
@@ -36,7 +28,11 @@ L'exposition a fait ses débuts lors de l'année 2025-2026
 
 ## Description de l'oeuvre
 
-![dispositif_avec_projection](media/patinoire_action.jpg)
+![dispositif_avec_action](media/oeuvre_action.jpg)
+
+![cartel_contenu](media/cartel_oeuvre.jpg)
+
+![table de commande](media/table_commande_dispositif.jpg)
 
 >Photo prise par ZC.
 
@@ -48,10 +44,12 @@ Cette installation est intéractive.
 
 ## Mise en espace
 
-![croquis](media/croquis.png)
+![croquis](media/croquis_mission_decollage.png)
 
 ## Composante et technique
+![composante et technique](media/projecteurs.jpg)
 
+![élément nécessaire](media/haut_parleur.jpg)
 >Photo prise par ZC.
 
 Les composantes sont un ordinateur, trois projecteurs, deux haut-parleur, une carte de son, quatre cables XLR, deux contrôleurs arduino, trois contrôleurs arduino mini, six boutons pressoir et trois toggles switch
@@ -59,7 +57,11 @@ Les composantes sont un ordinateur, trois projecteurs, deux haut-parleur, une ca
 
 ## Éléments nécessaires à la mise en expo
 
-![patinoire_sur_glace](media/patinoire.jpg)
+![élément nécessaire](media/projecteurs.jpg)
+
+![élément nécessaire](media/haut_parleur.jpg)
+
+![ordinateur](media/ordinateur_dispositif.jpg)
 
 >Photo prise par ZC.
 
@@ -67,7 +69,7 @@ Les éléments nécessaires à l'exposition sont des projecteurs,haut-parleur,de
 
 ## Expérience vécue
 
-![personne_sur_patinoire](media/patinoire_personne.jpg)
+![le dispositif](media/dispositif.jpg)
 
 >Photo prise par ZC.
 
