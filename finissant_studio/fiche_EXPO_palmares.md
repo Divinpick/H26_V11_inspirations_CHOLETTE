@@ -14,6 +14,7 @@
 
 ## Mon opinion personnel
 
+Lorsque j'ai essayé ce dispositif, je me trouvais sur un jeu multijoueur dans lequel je jouais avec des collègues afin d'éviter des obstacles. Je trouve ça amusant mais répétitif.
 
 # Sybiose
 
@@ -31,6 +32,7 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour
 
 ## Mon opinion personnel
 
+Quand j'ai essayé ce dispositif, j'ai bien aimé la fonction d'interactivité avec les mécaniques pour faire un mélange dans un erlenmeyer avec des réflexes et une bonne mémoire.
 
 # Arbre en face
 
@@ -48,6 +50,7 @@ Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael An
 
 ## Mon opinion personnel
 
+Quand je suis rentré dans la grande salle, je me suis retrouvé en avant de ce dispositif et j'ai glissé mon doigt vers le haut et a fait apparaître une fleur avec ma tête dessus. J'ai trouvé ça hilarant et divertissant.
 
 # Quand les yeux
 
@@ -65,6 +68,7 @@ Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif
 
 ## Mon opinion personnel
 
+Quand je me suis retrouvé en face de ce dispositif, je ne savais pas quoi regarder ni où aller, mais j'ai observé attentivement les écrans et je voyais des yeux constamment en train de me regarder en permanence. Je trouvais ça assez dérangeant mais impressionnant.
 
 # Océan rouge
 
@@ -81,3 +85,5 @@ Amira Tounekti et Kristy Moussally
 ![schéma océan rouge](media/schema_ocean_rouge.png)
 
 ## Mon opinion personnel
+
+Quand j'ai testé ce dispositif, j'ai aimé que ce soit sur une machine d'arcade. Je trouvais ça plus amusant et aussi satisfaisant de ramasser des déchets au fond de la mer. Ça me rappelait un jeu que j'aime beaucoup qui se déroule sous l'eau.
