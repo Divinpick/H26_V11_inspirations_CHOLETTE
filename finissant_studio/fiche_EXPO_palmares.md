@@ -6,7 +6,7 @@
 
 ## Installation
 
-photo
+![illustration terminal](media/schema_terminal.png)
 
 ## Schéma
 
