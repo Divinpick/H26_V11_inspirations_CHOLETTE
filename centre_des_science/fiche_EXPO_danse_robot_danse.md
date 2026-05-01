@@ -49,7 +49,7 @@ Cette installation est interactive.
 
 ## Mise en espace
 
-![croquis](PLUS TARD)
+![croquis](media/croquis_dispositif.png)
 
 ## Composante et technique
 
