@@ -91,5 +91,6 @@ Grand remerciement à ces personnes pour avoir créé ce magnifique dispositif !
 ![artistes](media/artistes_design_production.jpg)
 
 ![soutien](media/soutien_financier.jpg)
+>Photo prise par ZC.
 
 
