@@ -36,11 +36,11 @@ L'exposition a fait ses débuts lors de l'année 2025-2026
 
 >Photo prise par ZC.
 
-L'oeuvre est un jeu intéractif dans lequel on pilote un vaisseau seul ou avec un ou deux amis et on doit ce rendre sur une planète et la rendre habitable mais durant le chemin ce trouve des débris de météorite que vous devez esquivé et des domages a réparer afin d'évité la destruction du vaisseau et pour cela tu dois avoir des coordinations parfaite avec ton équipe a bord.
+L'oeuvre est un jeu interactif dans lequel on pilote un vaisseau seul ou avec un ou deux amis et on doit se rendre sur une planète et la rendre habitable, mais durant le chemin se trouvent des débris de météorite que vous devez esquiver et des dommages à réparer afin d'éviter la destruction du vaisseau, et pour cela tu dois avoir des coordinations parfaites avec ton équipe a bord.
 
 ## Type d'installation
 
-Cette installation est intéractive.
+Cette installation est interactive.
 
 ## Mise en espace
 
@@ -55,12 +55,12 @@ Cette installation est intéractive.
 
 >Photo prise par ZC.
 
-Les composantes sont un ordinateur, trois projecteurs, deux haut-parleur, une carte de son, quatre cables XLR, deux contrôleurs arduino, trois contrôleurs arduino mini, six boutons pressoir et trois toggles switch
+Les composantes sont un ordinateur, trois projecteurs, deux haut-parleurs, une carte de son, quatre câbles XLR, deux contrôleurs Arduino, trois contrôleurs Arduino mini, six boutons pressoir et trois toiles switch.
 
 
 ## Éléments nécessaires à la mise en expo
 
-Les éléments nécessaires à l'exposition sont des projecteurs,haut-parleur,des boutons et intérupteur et un ordinateur
+Les éléments nécessaires à l'exposition sont des projecteurs, haut-parleur, des boutons et interrupteurs et un ordinateur
 
 ## Expérience vécue
 
@@ -68,15 +68,15 @@ Les éléments nécessaires à l'exposition sont des projecteurs,haut-parleur,de
 
 >Photo prise par ZC.
 
-Je me sentais comme si j'étais dans la fusée avec mon équipe et nous devions réparé les dommage de la capsule et nous devions ce parlé afin de ce dirigé.
+Je me sentais comme si j'étais dans la fusée avec mon équipe et nous devions réparer les dommages de la capsule et nous devions nous parler afin de se diriger.
 
 ## Ce qui m'a plu
 
-ce qui m'a plu était de jouer en coopération avec d'autres personnes et de communiqué pour ce déplacer.
+Ce qui m'a plu était de jouer en coopération avec d'autres personnes et de communiquer pour se déplacer.
 
 ## Aspect a ne pas retenir
 
-l'aspect que je ne voudrais pas retenir serait les commandes.
+L'aspect que je ne voudrais pas retenir serait les commandes.
 
 ## Référence
 
