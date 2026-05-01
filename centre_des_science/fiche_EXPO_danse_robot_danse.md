@@ -66,8 +66,6 @@ Les composantes de cette oeuvre sont un bouton, des plaques de bois, une table, 
 
 ## Éléments nécessaires à la mise en expo
 
->Photo prise par ZC.
-
 Les éléments nécessaires à l'exposition sont les plaques en bois, le robot, le bouton et la caméra.
 
 ## Expérience vécue
