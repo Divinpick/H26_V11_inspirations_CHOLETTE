@@ -50,20 +50,15 @@ Cette installation est intéractive.
 ![composante et technique](media/projecteurs.jpg)
 
 ![élément nécessaire](media/haut_parleur.jpg)
+
+![ordinateur](media/ordinateur_dispositif.jpg)
+
 >Photo prise par ZC.
 
 Les composantes sont un ordinateur, trois projecteurs, deux haut-parleur, une carte de son, quatre cables XLR, deux contrôleurs arduino, trois contrôleurs arduino mini, six boutons pressoir et trois toggles switch
 
 
 ## Éléments nécessaires à la mise en expo
-
-![élément nécessaire](media/projecteurs.jpg)
-
-![élément nécessaire](media/haut_parleur.jpg)
-
-![ordinateur](media/ordinateur_dispositif.jpg)
-
->Photo prise par ZC.
 
 Les éléments nécessaires à l'exposition sont des projecteurs,haut-parleur,des boutons et intérupteur et un ordinateur
 
