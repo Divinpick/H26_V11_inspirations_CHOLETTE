@@ -55,7 +55,7 @@ photo
 
 ## Schéma
 
-![schéma quand les yeux](media/schema_yeux_croise.jpg)
+![schéma quand les yeux](media/schema_yeux_croise.jpeg)
 
 ## Mon opinion personnel
 
