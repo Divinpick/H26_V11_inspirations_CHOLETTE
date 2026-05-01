@@ -10,7 +10,7 @@ photo
 
 ## Schéma
 
-![schéma terminal](media/schema_terminal.webp)
+![schéma terminal](media/schema_terminal.png)
 
 ## Mon opinion personnel
 
@@ -26,6 +26,8 @@ Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour
 photo
 
 ## Schéma
+
+![schéma symbiose](media/schema_symbiose.webp)
 
 ## Mon opinion personnel
 
