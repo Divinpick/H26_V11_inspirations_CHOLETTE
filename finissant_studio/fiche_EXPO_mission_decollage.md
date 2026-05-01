@@ -50,7 +50,7 @@ Cette installation est intéractive.
 
 ![croquis](media/croquis.png)
 
-## Composante et technique##
+## Composante et technique
 
 >Photo prise par ZC.
 
