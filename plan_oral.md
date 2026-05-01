@@ -1,6 +1,6 @@
 # Le coffre à jouets dégivré crée par Ottomata & Doki
 
-## lieu visité
+## Lieu visité
 
 Lumino(Place des arts, Montréal)
 
@@ -18,7 +18,7 @@ Lumino(Place des arts, Montréal)
 
 # Lieu visité
 
-Le rôle du dispositif est de patiner sur une patinoire publique. Il y a aussi des vidéoprojections uniques le soir jouant des thèmes spéciaux tel que l’Autoroute Zéro-gravité,  une piste flottante, le Monde Néon et le sol est en lave.
+Le rôle du dispositif est de patiner sur une patinoire publique. Il y a aussi des vidéoprojections uniques le soir jouant des thèmes spéciaux tel que l’autoroute zéro-gravité,  une piste flottante, le monde néon et le sol est en lave.
 
 # Présentation détaillée de l'oeuvre
 
